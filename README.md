@@ -1,3 +1,3 @@
 # IntegracionContinua Repositorio BACKEND - FRONTEND
 
-Test JENKIS Politecnico
+Prueba de conexion JENKIS - GITHUB POLITECNICO
